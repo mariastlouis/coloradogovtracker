@@ -13,4 +13,4 @@ Graphs: D3, Victory
 This project was a self directed project built by @mariastlouis and @jdursema. It was built in 3 weeks; however, the developers continue to work on it.
 
 
-[Checkout the Live Site!](https://governortrackerco.herokuapp.com/)
+[Checkout the Live Site!](https://coloradogovernortracker.herokuapp.com/)
